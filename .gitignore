@@ -1,0 +1,5 @@
+.idea
+AirManageSystem
+assets/db.db
+frontend/air-manage-system/dist
+frontend/air-manage-system/node_modules

@@ -1,0 +1,47 @@
+import {
+  ElContainer,
+  ElAside,
+  ElMain,
+  ElButton,
+  ElMenu,
+  ElMenuItem,
+  ElRow,
+  ElCol,
+  ElInput,
+  ElCheckbox,
+  ElTable,
+  ElTableColumn,
+  ElForm,
+  ElFormItem,
+  ElScrollbar,
+  ElDialog,
+  ElDatePicker,
+  ElInputNumber,
+  ElDrawer,
+  ElCarousel,
+  ElCarouselItem,
+  ElImage,
+  ElCard,
+  ElSelect,
+  ElDropdown,
+  ElDropdownItem,
+  ElDropdownMenu,
+  ElTag
+} from 'element-plus'
+
+export default [
+  ElContainer, ElAside, ElMain, ElButton, ElMenu, ElMenuItem, ElRow, ElCol, ElInput, ElCheckbox,
+  ElTable,
+  ElTableColumn, ElForm, ElFormItem, ElScrollbar, ElDialog,
+  ElDatePicker, ElInputNumber, ElDrawer,
+  ElCarousel,
+  ElCarouselItem,
+  ElCard,
+  ElImage,
+  ElSelect,
+  ElDropdown,
+  ElDropdownItem,
+  ElDropdownMenu,
+  ElTag
+
+]
